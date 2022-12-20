@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=header&text=WEDI&fontSize=90" />
 
-</br>
 
 # Mobile-App-Programming-Team2 
 
