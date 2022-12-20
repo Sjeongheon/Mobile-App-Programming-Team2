@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "863465338098",
+    "project_id": "wedi-33476",
+    "storage_bucket": "wedi-33476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863465338098:android:b775c3e5c84e7fa41a8c6b",
+        "android_client_info": {
+          "package_name": "com.teamwedi.wedi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863465338098-ft7rmcp1i55ln5h6d53ds4htf8ja8js0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamwedi.wedi",
+            "certificate_hash": "2204ae531ca8e2f1f3b132e4a40459c07c3d5fca"
+          }
+        },
+        {
+          "client_id": "863465338098-qotqv9hghsl0es3552ide3mks9kcpt4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qDtqD1YsIzZvLbcA3B8zz7UE-aFdbcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863465338098-qotqv9hghsl0es3552ide3mks9kcpt4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

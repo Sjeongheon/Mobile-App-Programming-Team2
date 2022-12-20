@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="로그인"/>
+
+    <item
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="로그아웃"
+        android:visible="false"/>
+
+    <item
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="메뉴 1"
+        android:visible="false"/>
+
+    <item
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="메뉴 2"
+        android:visible="false"/>
+
+</menu>
