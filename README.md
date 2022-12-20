@@ -4,13 +4,13 @@
 
 # Mobile-App-Programming-Team2 
 
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC844?style=flat&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-13448F?style=flat&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC844?style=flat&logo=androidstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-13448F?style=flat&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" >
 
 </br>
 
